@@ -59,7 +59,7 @@ cd compra/
 ```
 3. Instale as dependências:
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 4. Execute o projeto:
 ```bash
