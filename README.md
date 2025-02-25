@@ -47,10 +47,21 @@ O modelo utiliza um **classificador k-Nearest Neighbors (k-NN)** para determinar
 
 O modelo é treinado com exemplos rotulados e avaliado com base na precisão das previsões.
 
-## Como Rodar o Projeto
+## Instalação e execução:
 
-Para executar o programa, utilize o seguinte comando no terminal:
-
+1. Clone o repositório:
+```bash
+git clone https://github.com/Alvaro-Sena/compra.git  
+```
+2. Navegue até a pasta do repositório:
+```bash
+cd compra/
+```
+3. Instale as dependências:
+```bash
+   pip install -r requirements.txt
+```
+4. Execute o projeto:
 ```bash
 python shopping.py shopping.csv
 ```
